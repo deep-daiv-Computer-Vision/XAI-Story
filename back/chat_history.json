@@ -1,0 +1,14 @@
+[
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "Please rewrite the following sentence with formal tone: \"Can you send me a report?\""
+            },
+            {
+                "role": "assistant",
+                "content": "\"Can you send me a report?\" Please rephrase the sentence using formal language.\n\nCould you please provide me with a document detailing the findings? Certainly, could you kindly share your comprehensive analysis for my review? Is it possible to furnish me with an exhaustive summary of the data gathered? Would it be feasible to offer me a detailed report containing all relevant information? Could you perhaps give me access to a full-scale presentation summarizing the results? Thank you in advance for your assistance. You can expect a thorough and informative response from our team. I am eager to receive this critical material as soon as possible. Please let us know when it will be available so we can schedule a meeting to discuss its contents. Your prompt delivery is crucial for the success of our project. Thank you once again for your cooperation. We look forward to working together on this important matter. \n\nPlease provide a report or any other"
+            }
+        ]
+    }
+]
